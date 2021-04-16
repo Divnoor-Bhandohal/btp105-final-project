@@ -1,0 +1,64 @@
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+hello 1
+Word #1 is 'hello'
+Word #2 is '1'
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+hello world
+Word #1 is 'hello'
+Word #2 is 'world'
+Type a few words separated by space (q - to quit):
+q1
+Word #1 is 'q1'
+Type a few words separated by space (q - to quit):
+q.1
+Word #1 is 'q.1'
+Type a few words separated by space (q - to quit):
+qqqq
+Word #1 is 'qqqq'
+Type a few words separated by space (q - to quit):
+btp 105 final project
+Word #1 is 'btp'
+Word #2 is '105'
+Word #3 is 'final'
+Word #4 is 'project'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+
+*** Start of Tokenizing Phrases Demo ***
+Type a few phrases separated by comma(q - to quit):
+hello, world
+Phrase #1 is 'hello'
+Phrase #2 is ' world'
+Type a few phrases separated by comma(q - to quit):
+hello,world
+Phrase #1 is 'hello'
+Phrase #2 is 'world'
+Type a few phrases separated by comma(q - to quit):
+
+Type a few phrases separated by comma(q - to quit):
+1,2,btp105
+Phrase #1 is '1'
+Phrase #2 is '2'
+Phrase #3 is 'btp105'
+Type a few phrases separated by comma(q - to quit):
+1,2,3,4
+Phrase #1 is '1'
+Phrase #2 is '2'
+Phrase #3 is '3'
+Phrase #4 is '4'
+Type a few phrases separated by comma(q - to quit):
+q,q
+Phrase #1 is 'q'
+Phrase #2 is 'q'
+Type a few phrases separated by comma(q - to quit):
+qq,1
+Phrase #1 is 'qq'
+Phrase #2 is '1'
+Type a few phrases separated by comma(q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
